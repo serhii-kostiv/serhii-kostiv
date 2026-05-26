@@ -2,9 +2,9 @@
 
 ## I'm a Front-end Developer!
 
-- I'm From Ukraine (Ivano-Frankivsk);
-- 3+ Years Experience in Front-end Development;
-- Front-end Enthusiast.
+- 📍 Based in Ivano-Frankivsk, Ukraine;
+- 🚀 Focused on building scalable architecture, clean code, and high-performance web applications;
+- ⚡ Front-end Enthusiast & Continuous Learner.
 
 ### Connect with me:
 
@@ -25,8 +25,8 @@
     <td>
       <img src="./assets/skills/frontend/js.png" alt="JavaScript" width="75" title="JavaScript"/>
     </td>
-      <td>
-      <img src="./assets/skills/frontend/ts.png" alt="JavaScript" width="75" title="TypeScript"/>
+    <td>
+      <img src="./assets/skills/frontend/ts.png" alt="TypeScript" width="75" title="TypeScript"/>
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@
   </tr>
 </table>
 
-_**Note:** hover over a skill to get detailed information about it. </br> The information will be displayed as a tooltip._
+_**Note:** hover over a skill to get detailed information about it. <br/> The information will be displayed as a tooltip._
 
 [linkedin]: https://www.linkedin.com/in/serhii-kostiv/
 [email]: mailto:kostiv.serhii@gmail.com
